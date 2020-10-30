@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "my-httptest"
+    }
+  },
+  "defaultProject": "my-httptest",
+  "cli": {
+    "analytics": "44c39d42-8980-42fa-a0c5-488efdea6bd3"
+  }
 }
